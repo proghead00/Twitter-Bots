@@ -1,5 +1,5 @@
 import tweepy
-import random  # just in case if you want a random number of likes/retweets you want to execute
+import random  # just in case if you want a random number of likes/retweets you want to execute for automation
 import time
 
 
