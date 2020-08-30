@@ -2,10 +2,10 @@
 ## Twitter bots made with Python and use Twitter API, which aid a Twitter account to gain new followers and fame. It auto-likes, auto-retweets, based on the hashtag(s) you enter and number of tweets you want to execute automation on, and automatically follows people back.
 
 Firstly, you need to have access to Twitter API.
-## 🤙[Apply for Twitter API here](https://developer.twitter.com/)
+## 👉[Apply for Twitter API here](https://developer.twitter.com/) 👈
 
 #### Dependency: tweepy library
-## [See the tweepy documentaion here!](http://docs.tweepy.org/en/latest/) 👌 
+## 👉[See the tweepy documentaion here!](http://docs.tweepy.org/en/latest/)👈
 
  After you have access to API: 
  ---
@@ -18,4 +18,4 @@ Firstly, you need to have access to Twitter API.
 
 ![screenshot](https://user-images.githubusercontent.com/55017730/91664437-fb82a700-eb0c-11ea-98f2-a2dd897f2d57.png)
 
-Have fun!
+Have fun! 🤓
