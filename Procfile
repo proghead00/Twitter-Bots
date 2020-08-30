@@ -1,0 +1,1 @@
+worker: python all_bots_in_one.py
