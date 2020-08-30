@@ -7,7 +7,8 @@ Firstly, you need to have access to Twitter API.
 #### Dependency: tweepy library
 ## [See the tweepy documentaion here!](http://docs.tweepy.org/en/latest/)
 
-After you have access to API:
+ After you have access to API: 
+ ---
 ### Steps to run the code:
 1. Get API Keys/ Access Tokens after you are granted with the API from https://developer.twitter.com/
 2. Install tweepy: <code> pip install tweepy </code>
