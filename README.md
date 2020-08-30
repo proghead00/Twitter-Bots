@@ -12,7 +12,7 @@ After you have access to API:
 1. Get API Keys/ Access Tokens after you are granted with the API from https://developer.twitter.com/
 2. Install tweepy: <code> pip install tweepy </code>
 2. Run the code: <code> python all_bots_in_one.py </code>
-  (you can use the bots differently, or you can use the one where I combined all the functionalitites in one, i.e, all_bots_in_one.py  )
+  (you can use the bots differently, or you can use the one where I combined all the functionalitites into one, i.e, all_bots_in_one.py  )
 3. When you run it, you'll get options to input which are self-explanatory
 
 Have fun!
