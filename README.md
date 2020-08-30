@@ -8,11 +8,11 @@ Firstly, you need to have access to Twitter API.
 ## [See the tweepy documentaion here!](http://docs.tweepy.org/en/latest/)
 
 After you have access to API:
-### Steps to use:
-1. Get API Keys/ Access Tokens after you are granted with the API
+### Steps to run the code:
+1. Get API Keys/ Access Tokens after you are granted with the API from https://developer.twitter.com/
 2. Install tweepy: <code> pip install tweepy </code>
 2. Run the code: <code> python all_bots_in_one.py </code>
-  (you can use the bots differently, or you can use the one where I combined all the functionalitites in one)
-3. Enter the keys and secret keys
+  (you can use the bots differently, or you can use the one where I combined all the functionalitites in one, i.e, all_bots_in_one.py  )
+3. When you run it, you'll get options to input which are self-explanatory
 
 Have fun!
