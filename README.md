@@ -5,7 +5,7 @@
 
 ### Steps to use:
 1. Get API Keys/ Access Tokens after you are granted with the API
-2. Run the code: <code> pyhon all_bots_in_one.py <code>
+2. Run the code: <code> pyhon all_bots_in_one.py </code>
   (you can use the bots differently, or you can use the one where I combined all the functionalitites in one)
 3. Enter the keys and secret keys
 
